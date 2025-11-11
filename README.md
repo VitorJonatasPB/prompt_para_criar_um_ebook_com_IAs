@@ -1,0 +1,1 @@
+# prompt_para_criar_um_ebook_com_IAs
