@@ -6,7 +6,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/VitorJonatasPB/prompt_para_criar_um_ebook_com_IAs/blob/main/Ebook/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20em%20Java%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20em%20Java%20(1).pdf"> 📕Clique aqui para ler</a>
+<a href="https://github.com/VitorJonatasPB/prompt_para_criar_um_ebook_com_IAs/blob/main/Ebook/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20em%20Java%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20em%20Java.pdf"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
